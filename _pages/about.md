@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ni Hao/How Are You! I'm Jiayuan (Anton) MA!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Ni Hao/How Are You! Hello, I'm Jiayuan (Anton) MA!
+# 
 Here is my personal website 
 
 
