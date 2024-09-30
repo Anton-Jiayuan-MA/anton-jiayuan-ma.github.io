@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jiayuan (Anton) MA"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jiayuan (Anton) MA"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Jiayuan (Anton) MA"
+  pronouns         : "He/Him (Dr. one day)"
+  bio              : # "Short biography for the left-hand sidebar"
+  location         : "Sydney, Australia"
+  employer         : "The University of Sydney"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jima3429@uni.sydney.edu.au"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,12 +43,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
