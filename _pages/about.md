@@ -6,12 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome to my personal website!
 
-# Welcome
-I am an undergraduate student at the [University of Sydney](https://www.sydney.edu.au/), 
+I am a postgraduate student at the [University of Sydney](https://www.sydney.edu.au/), 
 majoring in Data Science with a specialization in Machine Learning.
 
-Under the patient and professional guidance of my senior, [Hongbin Na](https://hongbin-ze.github.io/), 
+Under the patient and professional mentorship of my senior, [Hongbin Na](https://hongbin-ze.github.io/), 
 I have recently embarked on my research journey in the world of Natural Language Processing (NLP). 
 
 I am particularly interested in applying NLP to Social Sciences, 
