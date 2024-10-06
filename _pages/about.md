@@ -21,8 +21,8 @@ Currently, I am delving deeper into research
 and actively seeking opportunities for research internships and pursuing a PhD.
 
 # Degrees
-* M.S. in Data Science, University of Sydney, 2025.06 (expected)
-* B.S. in Economics, University of Sydney, 2023.12
+* M.S. in Data Science, [University of Sydney](https://www.sydney.edu.au/), 2025.06 (expected)
+* B.S. in Economics, [University of Sydney](https://www.sydney.edu.au/), 2023.12
 
 # Papers
 
