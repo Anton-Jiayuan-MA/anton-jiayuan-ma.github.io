@@ -42,4 +42,4 @@ and actively seeking opportunities for research internships and pursuing a PhD.
 * Computing
   * Python, R, STATA, MS Office
 * Certificates
-  * ACCA (passed 5/13), CFA Level 1 (in preparation)
+  * ACCA (passed 5/13), CFA Level 1 (waiting for result)
