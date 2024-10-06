@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ni Hao/How Are You! I'm Jiayuan (Anton) MA!"
+title: "Ni Hao/How Are You! I'm Jiayuan (Anton) MA / 马佳元!"
 author_profile: true
 redirect_from: 
   - /about/
