@@ -19,7 +19,7 @@ aspiring to contribute to building a better society through this field.
 Currently, I am delving deeper into research 
 and actively seeking opportunities for research internships and pursuing a PhD.
 
-Finally, I would like to thank all the people 
+Finally, I would like to thank 
 who have accompanied and helped me in my life and work, 
 especially my senior, [Hongbin Na](https://hongbin-ze.github.io/), 
 for his patient and professional advice and pleasant collaboration.
