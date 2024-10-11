@@ -31,7 +31,7 @@ for his patient and professional advice and pleasant collaboration.
 # Papers
 *(The  asterisk \* appearing after authors means equal contribution.)*
 * [Pre-print] [2024] Detecting Conversational Mental Manipulation with Intent-Aware Prompting
-  * Author: **Jiayuan Ma***, Hongbin Na*, Zimu Wang, Yining Hua, Yue Liu, Wei Wang, Ling Chen
+  * Author: **Jiayuan Ma**\*, Hongbin Na\*, Zimu Wang, Yining Hua, Yue Liu, Wei Wang, Ling Chen
 
 # Internships
 * 2023.12 - 2024.02, ESG Research Intern
