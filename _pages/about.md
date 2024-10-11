@@ -11,14 +11,18 @@ Welcome to my personal website!
 I am a postgraduate student at the [University of Sydney](https://www.sydney.edu.au/), 
 majoring in Data Science with a specialization in Machine Learning.
 
-Under the patient and professional mentorship of my senior, [Hongbin Na](https://hongbin-ze.github.io/), 
-I have recently embarked on my research journey in the world of Natural Language Processing (NLP). 
-
+I have recently embarked on my research journey 
+in the world of Natural Language Processing (NLP).
 I am particularly interested in applying NLP to Social Sciences, 
 aspiring to contribute to building a better society through this field.
 
 Currently, I am delving deeper into research 
 and actively seeking opportunities for research internships and pursuing a PhD.
+
+Finally, I would like to thank all the people 
+who have accompanied and helped me in my life and work, 
+especially my senior, [Hongbin Na](https://hongbin-ze.github.io/), 
+for his patient and professional advice and pleasant collaboration.
 
 # Degrees
 * M.S. in Data Science, [University of Sydney](https://www.sydney.edu.au/), 2025.06 (expected)
