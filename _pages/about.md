@@ -29,21 +29,24 @@ for his patient and professional advice and pleasant collaboration.
 * B.S. in Economics, [University of Sydney](https://www.sydney.edu.au/), 2023.12
 
 # Papers
+*(The  asterisk \* appearing after authors means equal contribution.)*
+* [Pre-print] [2024] Detecting Conversational Mental Manipulation with Intent-Aware Prompting
+  * Author: **Jiayuan Ma***, Hongbin Na*, Zimu Wang, Yining Hua, Yue Liu, Wei Wang, Ling Chen
 
 # Internships
-* 2023.12 - 2024.02, ESG Advisory Intern
+* 2023.12 - 2024.02, ESG Research Intern
   * [PwC China](https://www.pwccn.com/en.html) (Shanghai, China)
-* 2023.06 - 2023.08, VC Intern
+* 2023.06 - 2023.08, VC Research Intern
   * [Shenzhen Capital Group Co. Ltd](https://www.szvc.com.cn/en) (Shanghai, China)
-* 2022.09 - 2022.12, IBD Intern
+* 2022.09 - 2022.12, IBD Research Intern
   * [China Securities Co. Ltd](https://www.group.citic/en/) (Beijing, China)
 * 2021.06 - 2021.07, Consulting Assistant Intern
   * [Capgemini Consulting (China) Co. Ltd](https://www.capgemini.com/cn-zh) (Hangzhou, China)
 
 # Skills
-* Languages
-  * Chinese, English, Spanish (B1), Japanese (N5)
 * Computing
   * Python, R, STATA, MS Office
+* Languages
+  * Chinese, English, Spanish (B1), Japanese (N5)
 * Certificates
   * ACCA (passed 5/13), CFA Level 1 (waiting for result)
