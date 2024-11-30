@@ -26,7 +26,9 @@ for his patient and professional advice and pleasant collaboration.
 
 # Degrees
 * M.S. in Data Science, [University of Sydney](https://www.sydney.edu.au/), 2025.06 (expected)
+  * GPA: 3.44/4.00 (current)
 * B.S. in Economics, [University of Sydney](https://www.sydney.edu.au/), 2023.12
+  * GPA: 3.85/4.00
 
 # Papers
 *(The  asterisk \* appearing after authors means equal contribution.)*
