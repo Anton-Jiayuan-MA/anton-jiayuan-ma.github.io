@@ -49,4 +49,4 @@ for his patient and professional advice and pleasant collaboration.
 * Languages
   * Chinese, English, Spanish (B1), Japanese (N5)
 * Certificates
-  * ACCA (passed 5/13), CFA Level 1 (waiting for result)
+  * ACCA (passed 5/13), CFA Level 1 (in preparation)
