@@ -31,9 +31,9 @@ for his patient and professional advice and pleasant collaboration.
   * GPA: 3.85/4.00
 
 # Papers
-*(The  asterisk \* appearing after authors means equal contribution.)*
+*(The  asterisk \* appearing after authors means equal contribution.)* \
 *(OSS means One-Sentence-Summary about the paper.)*
-* [COLING2025] [2024] [Detecting Conversational Mental Manipulation with Intent-Aware Prompting](https://arxiv.org/abs/2412.08414)
+* [[COLING2025]](https://coling2025.org/) [2024] [Detecting Conversational Mental Manipulation with Intent-Aware Prompting](https://arxiv.org/abs/2412.08414)
   * Author: **Jiayuan Ma**\*, Hongbin Na\*, Zimu Wang, Yining Hua, Yue Liu, Wei Wang, Ling Chen
   * OSS: A new approach, Intent-Aware Prompting (IAP), was introduced to detect mental manipulation in dialogues, which notably reduces false negatives and improving overall performance on detection.
 
