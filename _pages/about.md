@@ -21,19 +21,21 @@ and actively seeking opportunities for research internships and pursuing a PhD.
 
 Finally, I would like to thank 
 who have accompanied and helped me in my life and work, 
-especially my senior, [Hongbin Na](https://hongbin-ze.github.io/), 
+especially my senior, [Hongbin Na](https://hongbin-ze.github.io/) and [Zimu Wang](https://www.zimuwang.net/), 
 for his patient and professional advice and pleasant collaboration.
 
 # Degrees
-* M.S. in Data Science, [University of Sydney](https://www.sydney.edu.au/), 2025.06 (expected)
-  * GPA: 3.44/4.00 (current)
+* M.S. in Data Science, [University of Sydney](https://www.sydney.edu.au/), 2025.07 (expected)
+  * GPA: 3.20/4.00 (current)
 * B.S. in Economics, [University of Sydney](https://www.sydney.edu.au/), 2023.12
   * GPA: 3.85/4.00
 
 # Papers
 *(The  asterisk \* appearing after authors means equal contribution.)*
-* [COLING2025] [2024] Detecting Conversational Mental Manipulation with Intent-Aware Prompting
+*(OSS means One-Sentence-Summary about the paper.)*
+* [COLING2025] [2024] [Detecting Conversational Mental Manipulation with Intent-Aware Prompting](https://arxiv.org/abs/2412.08414)
   * Author: **Jiayuan Ma**\*, Hongbin Na\*, Zimu Wang, Yining Hua, Yue Liu, Wei Wang, Ling Chen
+  * OSS: A new approach, Intent-Aware Prompting (IAP), was introduced to detect mental manipulation in dialogues, which notably reduces false negatives and improving overall performance on detection.
 
 # Internships
 * 2023.12 - 2024.02, ESG Research Intern
