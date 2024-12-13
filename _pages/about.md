@@ -22,7 +22,7 @@ and actively seeking opportunities for research internships and pursuing a PhD o
 Finally, I would like to thank 
 who have accompanied and helped me in my life and work, 
 especially my senior, [Hongbin Na](https://hongbin-ze.github.io/) and [Zimu Wang](https://www.zimuwang.net/), 
-for his patient and professional advice and pleasant collaboration.
+for their patient and professional advice and pleasant collaboration.
 
 # Degrees
 * M.S. in Data Science, [University of Sydney](https://www.sydney.edu.au/), 2025.07 (expected)
