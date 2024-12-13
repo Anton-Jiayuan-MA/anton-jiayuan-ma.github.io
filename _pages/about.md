@@ -17,7 +17,8 @@ I am particularly interested in applying NLP to Social Sciences,
 aspiring to contribute to building a better society through this field.
 
 Currently, I am delving deeper into research 
-and actively seeking opportunities for research internships and pursuing a PhD or MS/PhD.
+and actively seeking opportunities for research internships 
+(one of the reason is that I have no supervisor or mentor so far) and pursuing a PhD or MS/PhD.
 
 Finally, I would like to thank 
 who have accompanied and helped me in my life and work, 
