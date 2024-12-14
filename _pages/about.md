@@ -11,10 +11,17 @@ Welcome to my personal website!
 I am a postgraduate student at the [University of Sydney](https://www.sydney.edu.au/), 
 majoring in Data Science with a specialization in Machine Learning.
 
-I have recently embarked on my research journey 
-in the world of Natural Language Processing (NLP).
-I am particularly interested in applying NLP to Social Sciences, 
-aspiring to contribute to building a better society through this field.
+I have recently embarked on my research journey in the world of Natural Language Processing (NLP).
+One of my research interests is to improve the performance of LLMs in conversational scenarios. 
+Many dialogues occur in my past teamwork experiences, work internships, and daily life. 
+These dialogues can be highly professional, such as business negotiations or financial analyses, 
+or quite ordinary, such as dates or bargaining. 
+The potential value of LLMs lies in adopting appropriate strategies 
+and producing suitable outputs in the proper context to achieve specific objectives.
+Considering my educational background in AI and Social Science, 
+another of my research interests is to expand the application of NLP 
+to a broader field so that NLP can empower more disciplines 
+and make NLP more socially valuable and commercially valuable.
 
 Currently, I am delving deeper into research 
 and actively seeking opportunities for research internships 
@@ -36,7 +43,7 @@ for their patient and professional advice and pleasant collaboration.
 *(OSS means One-Sentence-Summary about the paper.)*
 * [[COLING2025]](https://coling2025.org/) [2024] [Detecting Conversational Mental Manipulation with Intent-Aware Prompting](https://arxiv.org/abs/2412.08414)
   * Author: **Jiayuan Ma**\*, [Hongbin Na](https://hongbin-ze.github.io/)\*, [Zimu Wang](https://www.zimuwang.net/), [Yining Hua](https://ningkko.github.io/), Yue Liu, [Wei Wang](https://scholar.google.co.uk/citations?user=YPHIHq0AAAAJ&hl=en), [Ling Chen](https://scholar.google.com.au/citations?user=L5aYWQcAAAAJ&hl=en)
-  * OSS: A new approach, Intent-Aware Prompting (IAP), was introduced to detect mental manipulation in dialogues, which notably reduces false negatives and improving overall performance on detection.
+  * OSS: Based on Theory of Mind as motivation, a new approach, Intent-Aware Prompting (IAP), was introduced to detect mental manipulation in dialogues, which notably reduces false negatives and improving overall performance on detection.
 
 # Internships
 * 2023.12 - 2024.02, ESG Research Intern
