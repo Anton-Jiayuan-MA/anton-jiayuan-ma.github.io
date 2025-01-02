@@ -44,7 +44,7 @@ for their patient and professional advice and pleasant collaboration.
 * [[COLING2025]](https://coling2025.org/) [2024] [Detecting Conversational Mental Manipulation with Intent-Aware Prompting](https://arxiv.org/abs/2412.08414)
   * Author: **Jiayuan Ma**\*, [Hongbin Na](https://hongbin-ze.github.io/)\*, [Zimu Wang](https://www.zimuwang.net/), [Yining Hua](https://ningkko.github.io/), Yue Liu, [Wei Wang](https://scholar.google.co.uk/citations?user=YPHIHq0AAAAJ&hl=en), [Ling Chen](https://scholar.google.com.au/citations?user=L5aYWQcAAAAJ&hl=en)
   * OSS: Based on Theory of Mind as motivation, a new approach, Intent-Aware Prompting (IAP), was introduced to detect mental manipulation in dialogues, which notably reduces false negatives and improving overall performance on detection.
-  * Oral
+  * **Oral**
 
 # Internships
 * 2023.12 - 2024.02, ESG Research Intern
