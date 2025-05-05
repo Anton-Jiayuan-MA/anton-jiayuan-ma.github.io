@@ -12,16 +12,10 @@ I am a postgraduate student at the [University of Sydney](https://www.sydney.edu
 majoring in Data Science with a specialisation in Machine Learning.
 
 I have recently embarked on my research journey in the world of Natural Language Processing (NLP).
-One of my research interests is to improve the performance of LLMs in conversational scenarios. 
-Many dialogues occur in my past teamwork experiences, work internships, and daily life. 
-These dialogues can be highly professional, such as business negotiations or financial analyses, 
-or quite ordinary, such as dates or bargaining. 
-The potential value of LLMs lies in adopting appropriate strategies 
-and producing suitable outputs in the proper context to achieve specific objectives.
-Considering my educational background in AI and Social Science, 
-another of my research interests is to expand the application of NLP 
-to a broader field so that NLP can empower more disciplines 
-and make NLP more socially valuable and commercially valuable.
+Here are my research interests:
+
+* **LLMs Advancement:** Using my interdisciplinary grounding in social sciences and NLP, I hope to explore ways to improve the reason-ing, efficiency, and robustness of LLMs in the same way that other insights borrowed from fields such as neuroscience and physics have inspired the development of AI technologies.
+* **Theory Simulation:** Just like Stanford's Smallville, using LLMs as agents for social simulation and theory discovery can not only validate and discover existing sociological theories, but also reflect the capabilities and limitations of LLMS themselves.
 
 Currently, I am delving deeper into research 
 and actively seeking opportunities for research internships 
