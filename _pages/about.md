@@ -14,12 +14,13 @@ majoring in Data Science with a specialisation in Machine Learning.
 I have recently embarked on my research journey in the world of Natural Language Processing (NLP).
 Here are my research interests:
 
-* **LLMs Advancement:** Using my interdisciplinary grounding in social sciences and NLP, I hope to explore ways to improve the reason-ing, efficiency, and robustness of LLMs in the same way that other insights borrowed from fields such as neuroscience and physics have inspired the development of AI technologies.
+* **LLMs Advancement:** Using my interdisciplinary grounding in social sciences and NLP, I hope to explore ways to improve the reasoning, efficiency, and robustness of LLMs in the same way that other insights borrowed from fields such as neuroscience and physics have inspired the development of AI technologies.
+* **Dialogue Detection:** Conversations occur in various contexts. LLMs serve as invaluable assistants in identifying negative factors and offering effective strategies during discussions, thereby highlighting the significant value of LLMs.
 * **Theory Simulation:** Just like Stanford's Smallville, using LLMs as agents for social simulation and theory discovery can not only validate and discover existing sociological theories, but also reflect the capabilities and limitations of LLMs themselves.
 
 Currently, I am delving deeper into research 
 and actively seeking opportunities for research internships 
-(one of the reason is that I have no supervisor or mentor so far) and pursuing a PhD or MS/PhD.
+(One of the reasons is that I have no supervisor or mentor so far) and pursuing a PhD or MS/PhD.
 
 Finally, I would like to thank 
 who have accompanied and helped me in my life and work, 
