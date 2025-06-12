@@ -14,7 +14,7 @@ majoring in Data Science with a specialisation in Machine Learning.
 I have recently embarked on my research journey in the world of Natural Language Processing (NLP).
 Here are my research interests:
 
-* **LLMs Safety and Value Alignment:** LLMs should always infer in accordance with the ethical, legal, and social values imposed by the user or the user's environment.
+* **LLMs Safety and Value Alignment:** LLMs should always conform to the ethical, legal, and social values of users or their environments when inferring so that LLMs can be used in safety, especially in high-risk industries.
 * **Dialogue Detection:** Conversations occur in various contexts. LLMs serve as invaluable assistants in identifying negative factors and offering effective strategies during discussions, thereby highlighting the significant value of LLMs.
 * **Theory Simulation:** Just like Stanford's Smallville, using LLMs as agents for social simulation and theory discovery can not only validate and discover existing sociological theories, but also reflect the capabilities and limitations of LLMs themselves.
 
