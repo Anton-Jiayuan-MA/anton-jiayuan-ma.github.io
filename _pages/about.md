@@ -8,27 +8,22 @@ redirect_from:
 ---
 Welcome to my personal website!
 
-I am a postgraduate student at the [University of Sydney](https://www.sydney.edu.au/), 
-majoring in Data Science with a specialisation in Machine Learning.
+I am a first-year PhD student under Professor [Jing Li](https://www.li-jing.com/index.html)'s supervision 
+at [KLC Lab](https://www.li-jing.com/team.html) at Harbin Institute of Technology (HIT). 
 
 I have recently embarked on my research journey in the world of Natural Language Processing (NLP).
 Here is my research interest:
 
 * **From Inner Workings Towards Value Alignment; From Powerful Towards Useful.**
 
-Currently, I am delving deeper into research 
-and actively seeking opportunities for research internships 
-(One of the reasons is that I have no supervisor or mentor so far) and pursuing a PhD or MS/PhD.
-
-Finally, I would like to thank 
-who have accompanied and helped me in my life and work, 
-especially my senior, [Hongbin Na](https://hongbin-ze.github.io/) and [Zimu Wang](https://www.zimuwang.net/), 
-for their patient and professional advice and pleasant collaboration.
+I am grateful to my supervisor, Professor [Jing Li](https://www.li-jing.com/index.html), for his invaluable guidance and continuous encouragement.
+Besides, I would also like to thank Professor [Chen Ling](https://profiles.uts.edu.au/Ling.Chen), Professor [Wei Wang](https://scholar.xjtlu.edu.cn/en/persons/WeiWang03), [Hongbin Na](https://hongbin-ze.github.io/) and [Zimu Wang](https://www.zimuwang.net/), for their pleasant collaboration in research and professional help during my application.
 
 # Degrees
-* M.S. in Data Science, [University of Sydney](https://www.sydney.edu.au/), 2025.07 (expected)
-  * GPA: 3.22/4.00 (current)
-* B.S. in Economics, [University of Sydney](https://www.sydney.edu.au/), 2023.12
+* Ph.D. in Computer Science, [Harbin Institute of Technology](https://www.hitsz.edu.cn/index.html), 2029.06 (expected)
+* M.S. in Data Science, [University of Sydney](https://www.sydney.edu.au/), 2025.07
+  * GPA: 3.22/4.00
+* B.A. in Economics, [University of Sydney](https://www.sydney.edu.au/), 2023.12
   * GPA: 3.85/4.00
 
 # Papers
@@ -58,6 +53,6 @@ for their patient and professional advice and pleasant collaboration.
 * Computing
   * Python, R, STATA, MS Office
 * Languages
-  * Chinese, English, Spanish (B1), Japanese (N5)
+  * Chinese (Native), English (Fluent), Spanish (B1), Japanese (N4)
 * Certificates
-  * ACCA (passed 5/13), CFA Level 1 (in preparation)
+  * ACCA (passed 5/13)
