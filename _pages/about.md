@@ -9,7 +9,7 @@ redirect_from:
 Welcome to my personal website!
 
 I am a first-year PhD student under Professor [Jing Li](https://www.li-jing.com/index.html)'s supervision 
-at [KLC Lab](https://www.li-jing.com/team.html) at [Harbin Institute of Technology (HIT)](https://www.hitsz.edu.cn/index.html) based on Shenzhen, China. 
+at [KLC Lab](https://www.li-jing.com/team.html) of [Harbin Institute of Technology (HIT)](https://www.hitsz.edu.cn/index.html) based on Shenzhen, China. 
 
 I have recently embarked on my research journey in the world of Natural Language Processing (NLP).
 Here is my research interest:
