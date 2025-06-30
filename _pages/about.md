@@ -21,9 +21,9 @@ Besides, I would also like to thank Professor [Chen Ling](https://profiles.uts.e
 
 # Degrees
 * Ph.D. in Computer Science, [Harbin Institute of Technology](https://www.hitsz.edu.cn/index.html), 2029.06 (expected)
-* M.S. in Data Science, [University of Sydney](https://www.sydney.edu.au/), 2025.07
+* M.S. in Data Science, [the University of Sydney](https://www.sydney.edu.au/), 2025.07
   * GPA: 3.22/4.00
-* B.A. in Economics, [University of Sydney](https://www.sydney.edu.au/), 2023.12
+* B.A. in Economics, [the University of Sydney](https://www.sydney.edu.au/), 2023.12
   * GPA: 3.85/4.00
 
 # Papers
