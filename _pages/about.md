@@ -28,21 +28,20 @@ Besides, I would also like to thank Professor [Chen Ling](https://profiles.uts.e
   * GPA: 3.85/4.00
 
 # Papers
-*(The  asterisk \* appearing after authors means equal contribution.)* \
-*(OSS means One-Sentence-Summary about the paper.)*
+*(The  asterisk \* appearing after authors means equal contribution.)* 
 
-* [[EMNLP2025]](https://2025.emnlp.org/) [2025] [Lost in Pronunciation: Detecting Chinese Offensive Language Disguised by Phonetic Cloaking Replacement](https://arxiv.org/abs/2507.07640)
+* [[EMNLP2025 (Industry Track)]](https://2025.emnlp.org/) [2025] [Lost in Pronunciation: Detecting Chinese Offensive Language Disguised by Phonetic Cloaking Replacement](https://arxiv.org/abs/2507.07640)
   * Author: Haotan Guo\*, [Jianfei He](https://scholar.google.com/citations?user=vU8owIQAAAAJ&hl=en)\*, **Jiayuan Ma**\*, [Hongbin Na](https://hongbin-ze.github.io/)\*, [Zimu Wang](https://www.zimuwang.net/), [Haiyang Zhang](https://scholar.xjtlu.edu.cn/en/persons/HaiyangZhang), [Qi Chen](https://scholar.xjtlu.edu.cn/en/persons/QiChen02), [Wei Wang](https://scholar.google.co.uk/citations?user=YPHIHq0AAAAJ&hl=en), [Zijing Shi](https://winni18.github.io/), [Tao Shen](https://taoshen58.github.io/), [Ling Chen](https://scholar.google.com.au/citations?user=L5aYWQcAAAAJ&hl=en)
   * Award: Poster
-  * OSS: PCR ToxiCN dataset was introduced to demonstrate a challenge on Chinese social media moderation from phonetic cloaking replacement (PCR) and to evaluate LLMs' detection ability on this challenge.
-* [[CLPsych2025]](https://clpsych.org/) [2025] [From Posts to Timelines: Modeling Mental Health Dynamics from Social Media Timelines with Hybrid LLMs](https://aclanthology.org/2025.clpsych-1.21.pdf)
+  * Abstract: PCR ToxiCN dataset was introduced to demonstrate a challenge on Chinese social media moderation from phonetic cloaking replacement (PCR) and to evaluate LLMs' detection ability on this challenge.
+* [[CLPsych2025 (Shared Task Held at NAACL2025)]](https://clpsych.org/) [2025] [From Posts to Timelines: Modeling Mental Health Dynamics from Social Media Timelines with Hybrid LLMs](https://aclanthology.org/2025.clpsych-1.21.pdf)
   * Author: [Zimu Wang](https://www.zimuwang.net/)\*, [Hongbin Na](https://hongbin-ze.github.io/)\*, [Rena Gao](https://www.linkedin.com/in/rena-gao-72a71a113/), **Jiayuan Ma**, [Yining Hua](https://ningkko.github.io/), [Ling Chen](https://scholar.google.com.au/citations?user=L5aYWQcAAAAJ&hl=en), [Wei Wang](https://scholar.google.co.uk/citations?user=YPHIHq0AAAAJ&hl=en)
   * Award: Ranked 3rd in the Shared Task
-  * OSS: This work proposes a hybrid large language model framework to model individual mental health dynamics by first identifying adaptive and maladaptive evidence in social media posts, and then synthetically generating user well-being scores as well as post-level and timeline-level summaries.
-* [[COLING2025]](https://coling2025.org/) [2024] [Detecting Conversational Mental Manipulation with Intent-Aware Prompting](https://arxiv.org/abs/2412.08414)
+  * Abstract: This work proposes a hybrid large language model framework to model individual mental health dynamics by first identifying adaptive and maladaptive evidence in social media posts, and then synthetically generating user well-being scores as well as post-level and timeline-level summaries.
+* [[COLING2025 (Short Paper)]](https://coling2025.org/) [2024] [Detecting Conversational Mental Manipulation with Intent-Aware Prompting](https://arxiv.org/abs/2412.08414)
   * Author: **Jiayuan Ma**\*, [Hongbin Na](https://hongbin-ze.github.io/)\*, [Zimu Wang](https://www.zimuwang.net/), [Yining Hua](https://ningkko.github.io/), Yue Liu, [Wei Wang](https://scholar.google.co.uk/citations?user=YPHIHq0AAAAJ&hl=en), [Ling Chen](https://scholar.google.com.au/citations?user=L5aYWQcAAAAJ&hl=en)
   * Award: **Best Short Paper**, Oral
-  * OSS: Based on Theory of Mind as motivation, a new approach, Intent-Aware Prompting (IAP), was introduced to detect mental manipulation in dialogues, which notably reduces false negatives and improving overall performance on detection.
+  * Abstract: Based on Theory of Mind as motivation, a new approach, Intent-Aware Prompting (IAP), was introduced to detect mental manipulation in dialogues, which notably reduces false negatives and improving overall performance on detection.
 
 # Internships
 * 2023.12 - 2024.02, ESG Research Intern
