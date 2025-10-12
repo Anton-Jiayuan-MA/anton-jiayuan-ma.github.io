@@ -31,7 +31,7 @@ Besides, I would also like to thank Professor [Chen Ling](https://profiles.uts.e
 *(The  asterisk \* appearing after authors means equal contribution.)* 
 
 * [[EMNLP2025]](https://2025.emnlp.org/) [2025] [Lost in Pronunciation: Detecting Chinese Offensive Language Disguised by Phonetic Cloaking Replacement](https://arxiv.org/abs/2507.07640)
-  * Author: Haotan Guo\*, [Jianfei He](https://scholar.google.com/citations?user=vU8owIQAAAAJ&hl=en)\*, **Jiayuan Ma**\*, [Hongbin Na](https://hongbin-ze.github.io/)\*, [Zimu Wang](https://www.zimuwang.net/), [Haiyang Zhang](https://scholar.xjtlu.edu.cn/en/persons/HaiyangZhang), [Qi Chen](https://scholar.xjtlu.edu.cn/en/persons/QiChen02), [Wei Wang](https://scholar.google.co.uk/citations?user=YPHIHq0AAAAJ&hl=en), [Zijing Shi](https://winni18.github.io/), [Tao Shen](https://taoshen58.github.io/), [Ling Chen](https://scholar.google.com.au/citations?user=L5aYWQcAAAAJ&hl=en)
+  * Author: Haotan Guo\*, [Jianfei He](https://scholar.google.com/citations?user=vU8owIQAAAAJ&hl=en)\*, **Jiayuan Ma**\*, [Hongbin Na](https://hongbin-ze.github.io/), [Zimu Wang](https://www.zimuwang.net/), [Haiyang Zhang](https://scholar.xjtlu.edu.cn/en/persons/HaiyangZhang), [Qi Chen](https://scholar.xjtlu.edu.cn/en/persons/QiChen02), [Wei Wang](https://scholar.google.co.uk/citations?user=YPHIHq0AAAAJ&hl=en), [Zijing Shi](https://winni18.github.io/), [Tao Shen](https://taoshen58.github.io/), [Ling Chen](https://scholar.google.com.au/citations?user=L5aYWQcAAAAJ&hl=en)
   * Area: Industry Track
   * Award: Poster
   * Abstract: PCR ToxiCN dataset was introduced to demonstrate a challenge on Chinese social media moderation from phonetic cloaking replacement (PCR) and to evaluate LLMs' detection ability on this challenge.
