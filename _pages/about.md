@@ -60,6 +60,6 @@ Besides, I would also like to thank Professor [Chen Ling](https://profiles.uts.e
 * Computing
   * Python, R, STATA, MS Office
 * Languages
-  * Chinese (Native), English (Fluent), Spanish (B1), Japanese (N4)
+  * Chinese (Native), English (Fluent), Spanish (B1), Japanese (JLPT N5)
 * Certificates
   * ACCA (passed 5/13)
