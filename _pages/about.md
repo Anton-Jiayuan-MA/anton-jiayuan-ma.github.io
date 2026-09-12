@@ -14,7 +14,7 @@ at [KLC Lab](https://www.li-jing.com/team.html) of [Harbin Institute of Technolo
 I have recently embarked on my research journey in the world of Natural Language Processing (NLP).
 Here is my research interest:
 
-* **From Inner Workings Towards Value Alignment; From Powerful Towards Useful.**
+* **Multi-Agent in Long-Horizon Tasks**
 
 I am grateful to my supervisor, Professor [Jing Li](https://www.li-jing.com/index.html), for his patient and insightful guidance, and, valuable and continuous encouragement from my application period until the present research work. If you are interested in our group, feel free to go through [the lab website](https://www.li-jing.com/team.html) and contact [my supervisor](https://www.li-jing.com/index.html).
 
@@ -60,6 +60,6 @@ Besides, I would also like to thank Professor [Chen Ling](https://profiles.uts.e
 * Computing
   * Python, R, STATA, MS Office
 * Languages
-  * Chinese (Native), English (Fluent), Spanish (B1), Japanese (JLPT N5)
+  * Chinese (Native), English (Fluent), Spanish (B1), Japanese (JLPT N4)
 * Certificates
   * ACCA (passed 5/13)
