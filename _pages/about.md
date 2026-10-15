@@ -40,7 +40,7 @@ Besides, I would also like to thank Professor [Chen Ling](https://profiles.uts.e
   * Area: Shared Task at NAACL2025
   * Award: Ranked 3rd in the Shared Task
   * Abstract: This work proposes a hybrid large language model framework to model individual mental health dynamics by first identifying adaptive and maladaptive evidence in social media posts, and then synthetically generating user well-being scores as well as post-level and timeline-level summaries.
-* [[COLING2025]](https://coling2025.org/) [2024] [Detecting Conversational Mental Manipulation with Intent-Aware Prompting](https://arxiv.org/abs/2412.08414)
+* [[COLING2025]](https://coling2025.org/) [2025] [Detecting Conversational Mental Manipulation with Intent-Aware Prompting](https://arxiv.org/abs/2412.08414)
   * Author: **Jiayuan Ma**\*, [Hongbin Na](https://hongbin-ze.github.io/)\*, [Zimu Wang](https://www.zimuwang.net/), [Yining Hua](https://ningkko.github.io/), Yue Liu, [Wei Wang](https://scholar.google.co.uk/citations?user=YPHIHq0AAAAJ&hl=en), [Ling Chen](https://scholar.google.com.au/citations?user=L5aYWQcAAAAJ&hl=en)
   * Area: Short Paper
   * Award: **[Best Short Paper](https://coling2025.org/program/best_papers/)**, Oral
