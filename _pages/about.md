@@ -9,7 +9,7 @@ redirect_from:
 Welcome to my personal website!
 
 I am a first-year PhD student under Professor [Jing Li](https://www.li-jing.com/index.html)'s supervision 
-at [KLC Lab](https://www.li-jing.com/team.html) of [Harbin Institute of Technology (HIT)](https://www.hitsz.edu.cn/index.html) based on Shenzhen, China. 
+at [KLC Lab](https://www.li-jing.com/team.html) of [Harbin Institute of Technology (HIT)](https://www.hitsz.edu.cn/index.html), Shenzhen campus, China. 
 
 I have recently embarked on my research journey in the world of Natural Language Processing (NLP).
 Here is my research interest:
@@ -27,19 +27,17 @@ Besides, I would also like to thank Professor [Chen Ling](https://profiles.uts.e
 * B.A. in Economics, [The University of Sydney](https://www.sydney.edu.au/), 2023.12
   * GPA: 3.85/4.00
 
-# Papers
+# Selected Papers
 *(The  asterisk \* appearing after authors means equal contribution.)* 
 
+* [[EMNLP2026]](https://2026.emnlp.org/) [2026] [FPCO-Dialog: A Multi-Turn False-Premise Benchmark for Correction and Cooperation in Vision-Language Models](https://arxiv.org/abs/2609.03331)
+  * Author: **Jiayuan Ma**, [Yuqi Lu](https://openreview.net/profile?id=~Yuqi_Lu2), [Weiyang Guo](https://yuki-younai.github.io/weiyangguo/), [Chenrui Wang](https://scholar.google.com/citations?user=87vR1K4AAAAJ&hl=zh-CN), [Junyi Shu](https://scholar.google.com/citations?user=OtGIzDUAAAAJ&hl=zh-CN), [Xuebo Liu](https://sunbowliu.github.io/), [Min Zhang](https://zhangmin-nlp-ai.github.io/), [Jing Li](https://www.li-jing.com/index.html)
+  * Area: Main Conference
+  * Abstract: FPCO-Dialog (a brand new benchmark) evaluates how VLMs respond when users repeatedly ask questions based on incorrect assumptions about an image.
 * [[EMNLP2025]](https://2025.emnlp.org/) [2025] [Lost in Pronunciation: Detecting Chinese Offensive Language Disguised by Phonetic Cloaking Replacement](https://arxiv.org/abs/2507.07640)
   * Author: Haotan Guo\*, [Jianfei He](https://scholar.google.com/citations?user=vU8owIQAAAAJ&hl=en)\*, **Jiayuan Ma**\*, [Hongbin Na](https://hongbin-ze.github.io/), [Zimu Wang](https://www.zimuwang.net/), [Haiyang Zhang](https://scholar.xjtlu.edu.cn/en/persons/HaiyangZhang), [Qi Chen](https://scholar.xjtlu.edu.cn/en/persons/QiChen02), [Wei Wang](https://scholar.google.co.uk/citations?user=YPHIHq0AAAAJ&hl=en), [Zijing Shi](https://winni18.github.io/), [Tao Shen](https://taoshen58.github.io/), [Ling Chen](https://scholar.google.com.au/citations?user=L5aYWQcAAAAJ&hl=en)
   * Area: Industry Track
-  * Award: Poster
   * Abstract: PCR ToxiCN dataset was introduced to demonstrate a challenge on Chinese social media moderation from phonetic cloaking replacement (PCR) and to evaluate LLMs' detection ability on this challenge.
-* [[CLPsych2025]](https://clpsych.org/) [2025] [From Posts to Timelines: Modeling Mental Health Dynamics from Social Media Timelines with Hybrid LLMs](https://aclanthology.org/2025.clpsych-1.21.pdf)
-  * Author: [Zimu Wang](https://www.zimuwang.net/)\*, [Hongbin Na](https://hongbin-ze.github.io/)\*, [Rena Gao](https://www.linkedin.com/in/rena-gao-72a71a113/), **Jiayuan Ma**, [Yining Hua](https://ningkko.github.io/), [Ling Chen](https://scholar.google.com.au/citations?user=L5aYWQcAAAAJ&hl=en), [Wei Wang](https://scholar.google.co.uk/citations?user=YPHIHq0AAAAJ&hl=en)
-  * Area: Shared Task at NAACL2025
-  * Award: Ranked 3rd in the Shared Task
-  * Abstract: This work proposes a hybrid large language model framework to model individual mental health dynamics by first identifying adaptive and maladaptive evidence in social media posts, and then synthetically generating user well-being scores as well as post-level and timeline-level summaries.
 * [[COLING2025]](https://coling2025.org/) [2025] [Detecting Conversational Mental Manipulation with Intent-Aware Prompting](https://arxiv.org/abs/2412.08414)
   * Author: **Jiayuan Ma**\*, [Hongbin Na](https://hongbin-ze.github.io/)\*, [Zimu Wang](https://www.zimuwang.net/), [Yining Hua](https://ningkko.github.io/), Yue Liu, [Wei Wang](https://scholar.google.co.uk/citations?user=YPHIHq0AAAAJ&hl=en), [Ling Chen](https://scholar.google.com.au/citations?user=L5aYWQcAAAAJ&hl=en)
   * Area: Short Paper
